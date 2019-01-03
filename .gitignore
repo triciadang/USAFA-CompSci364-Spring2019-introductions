@@ -1,0 +1,8 @@
+# temporary and backup files
+*.bak
+*~
+.*.swp
+
+# operating system (OS) metadata
+.DS_Store
+Thumbs.db
