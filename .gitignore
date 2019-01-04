@@ -6,3 +6,6 @@
 # operating system (OS) metadata
 .DS_Store
 Thumbs.db
+
+# Python virtual environment (used for testing)
+.venv
