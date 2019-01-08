@@ -43,8 +43,8 @@ Major
 Hobbies
   List at least a few hobbies or what you like to do when not studying
 
-Experience
-==========
+Prior Experience
+================
 
 Programming
 
