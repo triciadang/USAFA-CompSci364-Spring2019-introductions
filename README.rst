@@ -57,3 +57,14 @@ Databases
 * List any databases that you've used in the past. Some common ones are
   Microsoft Access, MySQL, Oracle, PostgreSQL, MongoDB, and SQLite, but feel
   free to include others.
+
+Course
+======
+
+Briefly summarize anything that you've heard about this course. If you have no
+prior expectations about the course or the course material, then simply omit
+this paragraph.
+
+Why are you taking this course? What topics are you particularly interested in?
+Are there any that you'd prefer to avoid? (Please use the schedule, which lists
+the topic of each lesson, if necessary.)
