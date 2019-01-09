@@ -31,6 +31,9 @@ Personal
 Email
   address@example.com
 
+GitHub username
+  @example-github-username
+
 Hometown
   City and state that you consider to be "home" (e.g., where your family lives)
 
