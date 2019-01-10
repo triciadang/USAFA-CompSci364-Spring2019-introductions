@@ -1,73 +1,68 @@
 ===================
-First and Last Name
+Tricia Dang
 ===================
 
-The first paragraph (or even a couple of paragraphs) should be a biographical
-sketch about yourself. How would you introduce yourself to someone? What should
-they know about you? You might highlight some of your personal accomplishments
-and experiences that have shaped your life.
 
-This file is formatted using reStructured Text (RST), a lightweight markup
-language that is easily readable. Various software development tools, including
-GitHub, will render this file as an HTML document when it appears in a
-repository. A primer for using reStructured Text is available online:
-<http://docutils.sourceforge.net/docs/user/rst/quickstart.html>.
+My name is Tricia, and I was born in Canada and raised in Suwanee, GA.
+I grew up in an Asian household, where many of the stereotypes of Asians
+became true: excelling in math, starting to play an instrument from a young
+age, and of course, being terrible at driving. Growing up in this
+environment has shaped me into the hard-working, perseverant student
+I am today. I try to push myself in everything that I do, always striving
+for perfection. Mediocre effort is a concept that is foreign to me and
+something that I do not understand when I see it in other people.
+Additionally, family is always first on my list before anything else and
+is irreplaceable.
 
-Finally, a biographical sketch wouldn't be complete without a picture. Please
-include one that is clearly recognizable, preferably a head-and-shoulders shot.
-If you don't have one immediately available, a selfie works. Use the following
-to include the image in the rendered Markdown file::
 
-    .. image:: path/to/image
+.. image:: ./Dang.PNG
 
-(but not indented because that's used to denote a code block). In a perfect
-world, your image should be approximately 1 megapixel and less than 200 KB in
-size, but that's not particularly critical in this case. If linked correctly,
-you should see your image when this file is rendered on GitHub.
 
 Personal
 ========
 
 Email
-  address@example.com
+  c20tricia.dang@usafa.edu
 
 GitHub username
-  @example-github-username
+  @triciadang
 
 Hometown
-  City and state that you consider to be "home" (e.g., where your family lives)
+  Suwanee, GA
 
 Unit
-  Cadet squadron
+  CS-31
 
 Major
-  Be sure to include multiple majors, if applicable.
+  Computer Science and Cyber Science
 
 Hobbies
-  List at least a few hobbies or what you like to do when not studying
+  Violin and Swim and League of Legends
 
 Prior Experience
 ================
 
 Programming
 
-* List each language and how much experience you have with it.
-* Use an additional bullet for each programming language.
-* You need not list languages that you've used for less than one semester.
+* Python - About 1 year
+* C - About 1 year
+* Java - 1 semester
 
 Databases
 
-* List any databases that you've used in the past. Some common ones are
-  Microsoft Access, MySQL, Oracle, PostgreSQL, MongoDB, and SQLite, but feel
-  free to include others.
+* None
 
 Course
 ======
 
-Briefly summarize anything that you've heard about this course. If you have no
-prior expectations about the course or the course material, then simply omit
-this paragraph.
-
-Why are you taking this course? What topics are you particularly interested in?
-Are there any that you'd prefer to avoid? (Please use the schedule, which lists
-the topic of each lesson, if necessary.)
+I am taking this course in hopes of expanding my knowledge of the cyber world.
+Much of the cyber jobs in the Air Force involve using information and being
+able to store it and later access it. I hope to gain competency in this
+area in order to become a more knowledgeable officer in the Air Force.
+Topics that I am interested would have to be HTML and CSS and JavaScript as
+well as privacy protection. My sister is a web designer, and I would love to
+be able to look over her shoulder after this course and know what she is
+doing. I am interested in privacy protection because as a potential future
+cyber officer, cyber defense is a vital topic that I need to learn everything
+that I can. Topics I'd prefer to avoid is ER Modeling because I still remember
+not liking all the diagrams we did in Software Engineering.
