@@ -63,6 +63,6 @@ Topics that I am interested would have to be HTML and CSS and JavaScript as
 well as privacy protection. My sister is a web designer, and I would love to
 be able to look over her shoulder after this course and know what she is
 doing. I am interested in privacy protection because as a potential future
-cyber officer, cyber defense is a vital topic that I need to learn everything
-that I can. Topics I'd prefer to avoid is ER Modeling because I still remember
-not liking all the diagrams we did in Software Engineering.
+cyber officer, cyber defense is a vital topic that will be relevant to my
+future career. Topics I'd prefer to avoid is ER Modeling because I still
+remember not enjoying drawing the diagrams in Software Engineering.
